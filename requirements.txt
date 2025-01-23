@@ -1,0 +1,11 @@
+fastapi
+pydantic
+responses
+requests
+pytest
+httpx
+uvicorn
+flake8
+pydantic
+openai
+gradio
